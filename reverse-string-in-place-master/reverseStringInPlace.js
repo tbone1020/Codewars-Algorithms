@@ -1,5 +1,5 @@
 // Since "initialStr" and "reversedStr" values won't change, we assign them as const.
-const initialStr = 'My name is Trent Teebken and my girlfriend is Rachel Sevilla';
+const initialStr = 'My name is Trent and I am a Front-end Engineer';
 const reversedStr = initialStr =>{
     let spStr = initialStr.split(' ');
     
